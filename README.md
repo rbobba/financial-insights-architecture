@@ -131,7 +131,7 @@ The codebase follows strict layered architecture: **Domain → Services → Adap
 
 ```
 financial-insights-architecture/
-├── README.md                           # This file
+├── README.md
 ├── assets/
 │   └── architecture-diagram.png        # System architecture diagram
 ├── docs/
