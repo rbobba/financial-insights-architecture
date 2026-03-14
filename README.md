@@ -19,10 +19,6 @@ This repository contains the **architecture documentation, design decisions, and
 
 ![System Architecture](assets/architecture-diagram.png)
 
-### Cloud & Observability Architecture
-
-![Cloud & Observability](assets/cloud-observability-diagram.png)
-
 ### Architecture Layers
 
 | Layer | Technology | Responsibility |
@@ -137,8 +133,7 @@ The codebase follows strict layered architecture: **Domain → Services → Adap
 financial-insights-architecture/
 ├── README.md
 ├── assets/
-│   ├── architecture-diagram.png        # Technical architecture diagram
-│   └── cloud-observability-diagram.png # Cloud & observability architecture
+│   └── architecture-diagram.png        # Technical architecture diagram
 ├── docs/
 │   ├── specs/                          # Architecture specifications
 │   │   ├── architecture-and-patterns.md
