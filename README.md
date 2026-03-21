@@ -10,8 +10,6 @@
 
 > An AI platform for financial document analysis — built with the architecture patterns, evaluation discipline, and operational rigor you'd expect in regulated financial services. Every decision is deliberate: where the system should be deterministic, where it should be probabilistic, and why.
 
-**Keywords:** AI document intelligence, LLM extraction pipeline, financial document processing, context engineering, RAG pipeline, natural language to SQL, NLQ engine, Vertex AI Gemini, document classification, OCR PDF extraction, clean architecture Python, spec-driven development, LLM observability, AI governance compliance, golden dataset evaluation, LLM-as-a-Judge, prompt engineering patterns, deterministic vs probabilistic AI, agentic orchestration, ReAct pattern, entity resolution, pgvector embeddings, OpenTelemetry GenAI, Langfuse self-hosted, multi-tenant security, FastAPI production architecture
-
 ---
 
 ## Table of Contents
