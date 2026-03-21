@@ -7,8 +7,44 @@
 [![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL_16-pgvector-4169E1?logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 [![Langfuse](https://img.shields.io/badge/Langfuse-LLM_Observability-FF6B35)](https://langfuse.com)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-GenAI-F5A800?logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
+[![GitHub stars](https://img.shields.io/github/stars/rbobba/financial-insights-architecture?style=social)](https://github.com/rbobba/financial-insights-architecture)
 
 > An AI platform for financial document analysis — built with the architecture patterns, evaluation discipline, and operational rigor you'd expect in regulated financial services. Every decision is deliberate: where the system should be deterministic, where it should be probabilistic, and why.
+
+### Why This Repo Is Worth a ⭐
+
+- **136 production modules** with clean architecture — not a tutorial, not a demo
+- **24 specs written before code** — see how spec-driven AI development actually works
+- **Context Engineering > RAG** — why direct data injection outperforms vector search when structure is known
+- **LangChain evaluated and rejected** — with the 12-criteria assessment to prove it
+- **Dual-layer observability** (OpenTelemetry + Langfuse) — real-world LLM monitoring patterns
+- **AI governance mapped to 5 frameworks** — ISO 42001, EU AI Act, NIST AI RMF, SWIFT CSCF, SOC 2
+- **8 representative code samples** from a 136-module codebase — study real patterns, not toy examples
+
+---
+
+## Table of Contents
+
+- [What This Repository Contains](#what-this-repository-contains)
+- [Platform Capability Architecture](#platform-capability-architecture)
+- [System Architecture](#system-architecture)
+- [Design Principles](#design-principles)
+- [Key Engineering Capabilities](#key-engineering-capabilities)
+  - [Context Engineering Architecture](#1-context-engineering-architecture)
+  - [AI Evaluation Framework](#2-ai-evaluation-framework)
+  - [NLQ Engine (Natural Language to SQL)](#3-natural-language-to-sql-nlq-engine)
+  - [Adaptive Document Ingestion Pipeline](#4-adaptive-document-ingestion-pipeline)
+  - [Dual-Layer Observability](#5-dual-layer-observability)
+  - [AI Governance Compliance Mapping](#6-ai-governance-compliance-mapping)
+  - [RAG Pipeline](#7-rag-pipeline)
+  - [Correction Engine](#8-human-feedback--deterministic-rules-correction-engine)
+  - [Agentic Orchestration](#9-agentic-orchestration-react-pattern)
+  - [Clean Architecture](#10-clean-architecture-with-build-time-enforcement)
+- [Architecture Decision Records](#architecture-decision-records)
+- [Specifications](#specifications)
+- [Technology Stack](#technology-stack)
+- [Repository Structure](#repository-structure)
+- [About](#about)
 
 ---
 

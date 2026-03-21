@@ -26,3 +26,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Utility scripts (not part of public portfolio)
+generate_*.py
