@@ -7,19 +7,10 @@
 [![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL_16-pgvector-4169E1?logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 [![Langfuse](https://img.shields.io/badge/Langfuse-LLM_Observability-FF6B35)](https://langfuse.com)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-GenAI-F5A800?logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
-[![GitHub stars](https://img.shields.io/github/stars/rbobba/financial-insights-architecture?style=social)](https://github.com/rbobba/financial-insights-architecture)
 
 > An AI platform for financial document analysis — built with the architecture patterns, evaluation discipline, and operational rigor you'd expect in regulated financial services. Every decision is deliberate: where the system should be deterministic, where it should be probabilistic, and why.
 
-### Why This Repo Is Worth a ⭐
-
-- **136 production modules** with clean architecture — not a tutorial, not a demo
-- **24 specs written before code** — see how spec-driven AI development actually works
-- **Context Engineering > RAG** — why direct data injection outperforms vector search when structure is known
-- **LangChain evaluated and rejected** — with the 12-criteria assessment to prove it
-- **Dual-layer observability** (OpenTelemetry + Langfuse) — real-world LLM monitoring patterns
-- **AI governance mapped to 5 frameworks** — ISO 42001, EU AI Act, NIST AI RMF, SWIFT CSCF, SOC 2
-- **8 representative code samples** from a 136-module codebase — study real patterns, not toy examples
+**Keywords:** AI document intelligence, LLM extraction pipeline, financial document processing, context engineering, RAG pipeline, natural language to SQL, NLQ engine, Vertex AI Gemini, document classification, OCR PDF extraction, clean architecture Python, spec-driven development, LLM observability, AI governance compliance, golden dataset evaluation, LLM-as-a-Judge, prompt engineering patterns, deterministic vs probabilistic AI, agentic orchestration, ReAct pattern, entity resolution, pgvector embeddings, OpenTelemetry GenAI, Langfuse self-hosted, multi-tenant security, FastAPI production architecture
 
 ---
 
